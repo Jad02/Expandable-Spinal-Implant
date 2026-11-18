@@ -16,7 +16,7 @@ The project was developed in collaboration with the Surgical Performance Enhance
 
 ## Demonstration
 
-[Watch the implant demo video](Ivy%Demo%V4.5.mp4)
+[Watch the implant demo video](Ivy-Demo.mp4)
 
 ## Design and Development
 

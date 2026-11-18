@@ -14,6 +14,10 @@ The project was developed in collaboration with the Surgical Performance Enhance
 
 **[View Full Project Poster (PDF)](SuPER%20Design%20Day%20Poster.pdf)**
 
+## Demonstration
+
+[Watch the implant demo video](Ivy%Demo%V4.5.mp4)
+
 ## Design and Development
 
 The implant was developed through an iterative engineering design process, balancing mechanical performance, surgical accessibility, and manufacturability.
